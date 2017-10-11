@@ -1,3 +1,5 @@
-function one(){}
+function one(){
+    console.log()
+}
 
 function two(){}
