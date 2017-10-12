@@ -1,0 +1,1 @@
+()=>{aler("arrow function");}
